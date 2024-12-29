@@ -18,22 +18,22 @@ export default function AboutMe() {
 
         {/* Phần "Xin chào" nằm ngang với hình ảnh */}
         <div style={{ marginLeft: '30px' }}>
-          <p className="section--title">Xin chào, mình là Trần Thị Thùy Dương</p>
+          <p className="section--title">Xin chào, tôi là Trần Thị Thùy Dương</p>
           <p className="hero--section-description">
             Hiện là sinh viên năm cuối ngành Công nghệ Thông tin tại Trường Đại học Công nghệ TP.HCM. 
-            Với niềm đam mê và sự nỗ lực không ngừng, mình đang hướng đến việc phát triển sự nghiệp trong lĩnh vực 
-            Chuyên viên Phân tích Nghiệp vụ – một vị trí mà mình tin rằng có thể khai thác tối đa 
+            Với niềm đam mê và sự nỗ lực không ngừng, tôi đang hướng đến việc phát triển sự nghiệp trong lĩnh vực 
+            Chuyên viên Phân tích Nghiệp vụ – một vị trí mà tôi tin rằng có thể khai thác tối đa 
             tiềm năng của bản thân và phù hợp với định hướng phát triển nghề nghiệp.
           </p>
           <p className="hero--section-description">
-            Trong quá trình học tập tại trường, bên cạnh việc nắm vững các kiến thức chuyên ngành, mình đã chủ động 
+            Trong quá trình học tập tại trường, bên cạnh việc nắm vững các kiến thức chuyên ngành, tôi đã chủ động 
             tìm hiểu và học hỏi thêm các kỹ năng như phân tích, thiết kế dữ liệu, cũng như sử dụng các công cụ và công 
-            nghệ hỗ trợ trong quá trình phân tích và thiết kế. Mình cũng đã tham gia vào nhiều dự án môn học với vai 
-            trò trưởng nhóm, trong đó mình đảm nhận công việc phân tích nghiệp vụ, bao gồm xác định và phân tích yêu cầu, 
+            nghệ hỗ trợ trong quá trình phân tích và thiết kế. Tôi cũng đã tham gia vào nhiều dự án môn học với vai 
+            trò trưởng nhóm, trong đó tôi đảm nhận công việc phân tích nghiệp vụ, bao gồm xác định và phân tích yêu cầu, 
             lập kế hoạch, và quản lý tiến độ dự án. 
           </p>
           <p className="hero--section-description">
-            Những trải nghiệm này đã giúp mình rèn luyện được kỹ năng làm việc nhóm, quản lý thời gian và tư duy logic, 
+            Những trải nghiệm này đã giúp tôi rèn luyện được kỹ năng làm việc nhóm, quản lý thời gian và tư duy logic, 
             cũng như hình thành phong cách làm việc chuyên nghiệp và trách nhiệm.
           </p>
         </div>
@@ -45,7 +45,7 @@ export default function AboutMe() {
           <h2 className="skills-section--heading">Mục tiêu</h2>
           <p className="hero--section-description">
             Tôi tận dụng mọi cơ hội để áp dụng những kiến thức lý thuyết đã tiếp thu vào thực tế và học hỏi từ môi trường làm việc. 
-            Mình mong muốn nâng cao kỹ năng phân tích và quản lý dự án, đồng thời tích lũy kinh nghiệm quý báu để phát triển bản thân hơn nữa.
+            Tôi mong muốn nâng cao kỹ năng phân tích và quản lý dự án, đồng thời tích lũy kinh nghiệm quý báu để phát triển bản thân hơn nữa.
             Tôi đặt mục tiêu xây dựng sự nghiệp của mình trong lĩnh vực công nghệ và trở thành một nhà phân tích nghiệp vụ giỏi.
           </p>
 

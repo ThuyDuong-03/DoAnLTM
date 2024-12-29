@@ -1,4 +1,4 @@
-export default function HeroSection() {
+export default function MyHome() {
   return (
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
